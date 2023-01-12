@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUKnTxLYlpFGlgOb2FYcPAUcjcoLIRjPRe4YuvmFloU0SteuqvGl5tSbwtOcUC8tfEO88IyEwi8XTpNddirNGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Milad\\source\\repo\\lucene-example1\\lucene-example1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Milad\\.nuget\\packages\\j2n\\2.0.0\\j2n.2.0.0.nupkg.sha512",
+    "C:\\Users\\Milad\\.nuget\\packages\\lucene.net\\4.8.0-beta00016\\lucene.net.4.8.0-beta00016.nupkg.sha512",
+    "C:\\Users\\Milad\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Milad\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Milad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
